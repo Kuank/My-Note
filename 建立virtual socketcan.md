@@ -1,4 +1,5 @@
 # My-Note
-sudo modprobe vcan;
-sudo ip link add dev vcan0 type vcan;
-sudo ip link set up vcan0;
+## Build virual socket can
+sudo modprobe vcan<br>
+sudo ip link add dev vcan0 type vcan<br>
+sudo ip link set up vcan0<br>
